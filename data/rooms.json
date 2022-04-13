@@ -1,0 +1,50 @@
+{
+  "headTitle": "Princes Street Hostel - Rooms",
+  "title": "Here you can check in more details our numerous rooms !",
+  "desc": "Our hostel has 4 levels. Each rooms has the following amenities... GLOBAL/MAIN description",
+  "metaImage": "https://firebasestorage.googleapis.com/v0/b/nuxt-web-template.appspot.com/o/klingking-beach-mid-sq.jpg?alt=media&token=fe9953a8-95d2-4c70-97c8-ae8df6816bdb",
+  "body": [
+    {
+      "square": true,
+      "numColumns": 3,
+      "tilesGrid": [
+        {
+          "name": "Private double rooms",
+          "img": "https://dl.airtable.com/.attachments/429e5dbe94dcfbdd1d59605f53d00323/571bdbc8/private-double-rooms-princes-street-hostel.jpg",
+          "desc": "A description",
+          "url": "https://beds24.com/booking2.php?propid=150425",
+          "btnLabel": "Book now"
+        },
+        {
+          "name": "Female only dorms 6 beds",
+          "img": "https://dl.airtable.com/.attachments/fa7941ed19294a38b06e61079edd1e32/c93425ac/female-dorms-princes-street-hostel.jpg",
+          "desc": "A description",
+          "url": "https://beds24.com/booking2.php?propid=150425",
+          "btnLabel": "Book now"
+        },
+        {
+          "name": "Small dorms : 4, 6 and 8 beds",
+          "img": "https://dl.airtable.com/.attachments/4d7a4557de064c07ac127c1fa3912620/598a0979/mixed-dorms-princes-street-hostel.jpg",
+          "desc": "A description",
+          "url": "https://beds24.com/booking2.php?propid=150425",
+          "btnLabel": "Book now"
+        },
+        {
+          "name": "Big dorms : 9, 10 and 12 beds",
+          "img": "https://dl.airtable.com/.attachments/eac553f74eca807eeb73d7e55b643564/edd9a9a7/PrincesStreetBackpackers83.jpg",
+          "desc": "A description",
+          "url": "https://beds24.com/booking2.php?propid=150425",
+          "btnLabel": "Book now"
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "name": "Google Maps Reviews",
+      "googleReview": {
+        "placeID": "ChIJ_SVfZmPHh0gREqcwzgqtAo4"
+      }
+    }
+  ]
+}
